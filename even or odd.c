@@ -10,7 +10,7 @@ printf("even");
 }
 else
 {
-printf("odd")
+printf("odd");
 }
 getch();
 }
